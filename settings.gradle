@@ -1,0 +1,2 @@
+rootProject.name = "LembarPenilaian"
+include ':app'
